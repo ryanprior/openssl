@@ -1205,7 +1205,6 @@ pub fn build(b: *std.Build) void {
                 "chacha/chacha-x86_64.s",
                 "ec/ecp_nistz256-x86_64.s",
                 "ec/x25519-x86_64.s",
-                "ec/x25519-x86_64.s",
                 "md5/md5-x86_64.s",
                 "modes/aesni-gcm-x86_64.s",
                 "modes/ghash-x86_64.s",
