@@ -388,7 +388,7 @@ pub fn build(b: *std.Build) void {
             //"LPdir_win.c",
             //"LPdir_win32.c",
             //"LPdir_wince.c",
-            "aes/aes_cbc.c",
+            // "aes/aes_cbc.c",
             "aes/aes_cfb.c",
             //"aes/aes_x86core.c",
             //"aes/aes_core.c",
